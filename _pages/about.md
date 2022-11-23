@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student, <a href='https://airesponsibly.net/'>Center for Responsible AI @NYU</a>.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: lucas_photo.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second year PhD student at NYU advised by [Julia Stoyanovich](https://stoyanovich.org/), and work closely with [Christoper Musco](https://www.chrismusco.com/) and [Bill Howe (of UW)](https://faculty.washington.edu/billhowe/). I am affiliated with the [NYU Center for Responsible AI](https://airesponsibly.net/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly, my work aims to answer open questions on data privacy, algorithmic fairness and AI safety, with an eye towards improving society and doing social good. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was formerly a member of the [Microsoft AI rotational program](https://www.microsoftnewengland.com/maidap/), working out of the New England Research and Development lab (and remotely during COVID!). In 2019 I graduated from Brown University, where I wrote a thesis about AI and self-data collection. I also make [movies]() and write as much as I can.
+
+I happen to own a [school bus]() that I've spent a lot of time [converting into a mobile home](), and trying to find a permanent home for in rural Vermont. If you like, I'll give you some great [reasons to buy a bus](), and arguably some better [reasons not to]().
